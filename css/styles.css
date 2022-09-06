@@ -1,0 +1,257 @@
+
+.container{
+    padding: 3% 0%;
+}
+/* /title page/ */
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+
+
+ text-align: center;
+
+}
+p{
+    font-family: 'EB Garamond', serif;
+    font-size: 1
+    rem;
+}
+h3{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+span{
+    font-family: 'EB Garamond', serif;
+}
+
+/* /navbar */
+
+.logo{
+    width: 150px;
+}
+
+#title {
+    background-image:url('images/bg1.jpg') ;
+    text-align: center;
+   
+}
+
+
+.nav-item{
+    padding: 0 20px 0 20px;
+font-size: 20px;
+    font-family: 'EB Garamond', serif;
+    
+}
+.nav-item:hover{
+    opacity: 0.7;
+}
+/* /title content */
+.head{
+    color: #eeba2b;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+    text-align: left;
+    padding-top: 30px;
+
+    
+}
+.carousel-item img{
+width: 100%;
+height: 100%;
+}
+
+#carouselExampleControls1{
+    padding-bottom: 3%  ; 
+}
+
+
+#inquire{
+    color: #eeba2b;
+}
+ .inquire{
+   
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.head2{
+    padding-top:30px ;
+    font-family: 'EB Garamond', serif;
+    padding-bottom: 30px;
+}
+#heads{
+    padding-left: 45px;
+    padding-top: 30px;
+ 
+}
+.trophy{
+    width: 600px;
+
+}
+#button{
+    font-weight: bold;
+}
+
+/* / unique */
+#unique{
+    background-color: #fcf9da;
+    text-align: center;
+
+
+}
+
+
+.unique-head{
+    font-size: 2rem;
+}
+#faf{
+    color: #eeba2b;
+    padding-bottom: 20px;
+}
+#faf:hover{
+    color: #254069;
+}
+/* //About */
+#about{
+
+    background-color: #254069;
+    color:#fff ;
+
+}
+.company{
+padding-bottom: 20px;
+color: #CEA434;
+}
+.summer{
+
+max-width: 100%;
+padding: 0px 50px;
+
+
+
+}
+.summer1{
+  
+ text-align: center;
+ padding-top: 30px;
+}
+/* //samples
+ */
+#samples{
+
+    text-align: center;
+    background-image: url(/images/bg1.png);
+}
+.samps{
+ margin-bottom: 20px;  
+
+
+  
+}
+
+.pics{
+
+    max-width: 100%;
+
+    padding: 30px;
+   text-align: center;
+    
+    
+}
+
+   
+    
+
+/* //feeback */
+#feedback{
+ 
+    background-color: #254069;
+    text-align: center;
+    padding: 3% 17%;
+    color: #CEA434;
+
+}
+#carouselExampleControls{
+    max-width: 100%;
+}
+.carousel{
+    max-width: 100%;
+   
+}
+.feeds{
+    margin-bottom: 10px;
+}
+
+
+
+/* // contact */
+#contact{
+    background-color: #fcf9da;
+
+    
+ 
+}
+.cons{
+text-align: left;
+padding-bottom: 20px;
+
+}
+.fb{
+    
+    text-decoration: none;
+    color: black;
+    display: inline;
+
+
+   
+}
+#socials{
+ vertical-align: middle;
+ padding: 10px 20px;
+ color: black;
+ display: inline-block;
+
+}
+#socials:hover{
+    color: #254069;
+}
+ul{
+    list-style-type: none;
+ 
+}
+.mapouter{
+    padding-top: 4px;
+ margin-bottom: 20px;
+
+}
+.map{
+    margin-top: 70px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+#one{
+    margin-left: 30px;
+}
+
+
+#gmap_canvas{
+ padding: 0 50px;
+    max-width: 100%;
+  
+}
+/* //footer
+ */
+ #footer{
+
+  text-align: center;
+  background-image: url(/images/bg1.png);
+ }
+ 
+.foot{
+    padding-top: 30px;
+}
